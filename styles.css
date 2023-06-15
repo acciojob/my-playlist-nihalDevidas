@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+	
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+.player_one{
+	background-color:white;
+	border: 1px solid darkgray;
+	border-radius:4px;
+}
+ul{
+	padding-top:5px;
+	padding-left: 15px;
+	padding-bottom:5px;
+}
+/*  css for player one ends  */
+
+.player_two{
+	background-color:white;
+	width:330px;
+	padding: 6px 0px 4px 10px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	margin:auto;
+}
+p{
+	text-align:center;
+	font-weight:bold;
+}
+audio{
+	padding:10px;
+}
